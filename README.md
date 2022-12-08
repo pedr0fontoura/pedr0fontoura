@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**pedr0fontoura/pedr0fontoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro ~~aka snakewiz~~.
 
-Here are some ideas to get you started:
+I'm a full-stack software developer focused on games and related products. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving game/product design problems with engineering solutions.
+
+In addition to my work in game development, I am also interested in web technologies, open-source projects, and building tools that empower other developers. You may also known me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
+
+Reach me out at:
+- [Twitter](https://twitter.com/pedr0fontoura)
+- [Discord](https://discordapp.com/users/673884839476330506)
+- [LinkedIn](https://www.linkedin.com/in/pffrd/)
+
+🐌
