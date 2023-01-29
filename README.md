@@ -6,7 +6,7 @@ I'm a full-stack software developer focused on games and related products.
 
 I'm passionate about solving game/product design problems with engineering solutions.
 
-In addition to my work in game development, I am also interested in web technologies, open-source projects, and building tools that empower other developers. You may also known me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
+In addition to my work in game development, I am also interested in web technologies, open-source projects, and building tools to empower other developers. You may also know me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
 
 Reach me out at:
 - [Twitter](https://twitter.com/pedr0fontoura)
