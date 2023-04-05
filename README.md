@@ -2,11 +2,13 @@
 
 My name is Pedro ~~aka snakewiz~~.
 
-I'm a full-stack software developer focused on games and related products. 
+I'm a generalist game programmer, creating entertainment and immersive experiences on UGC gaming platforms.
 
-I'm passionate about solving game/product design problems with engineering solutions.
+Contributing to open-source projects, building tools to empower other developers, and writing technical articles are activities that I'm very enthusiastic about.
 
-In addition to my work in game development, I am also interested in web technologies, open-source projects, and building tools to empower other developers. You may also know me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
+Because of my background in web development, I'm very proficient in TypeScript, Node.js, and React.
+
+You may also know me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
 
 Reach me out at:
 - [Twitter](https://twitter.com/pedr0fontoura)
