@@ -1,18 +1,17 @@
 ### Hi 👋
 
-My name is Pedro ~~aka snakewiz~~.
+My name is Pedro.
 
-I'm a generalist game programmer, creating entertainment and immersive experiences for third-party multiplayer gaming platforms.
+I'm a generalist game programmer, currently building multiplayer team-thinking games.
 
-Contributing to open-source projects, building tools to empower other developers, and writing technical articles are activities that I'm very enthusiastic about.
+I'm experienced working in Live Ops games with multi-disciplinary teams and in fast-paced environments. I like contributing to open-source projects, building tools to empower other developers, and everything related to game development.
 
-Because of my background in web development, I'm proficient in TypeScript, Node.js, and React. I take advantage of those skills while creating game UIs. In addition, C# and Lua are languages I also use frequently for scripting.
+Languages: TypeScript, Lua, C#, and C++.
 
 You may also know me for my contributions to the [Cfx](https://cfx.re/) / [FiveM](https://fivem.net/) community.
 
 Reach me at:
 - [Twitter](https://twitter.com/pedr0fontoura)
-- [Discord](https://discordapp.com/users/673884839476330506)
-- [LinkedIn](https://www.linkedin.com/in/pffrd/)
+- [LinkedIn](https://www.linkedin.com/in/pedr0fontoura/)
 
 🐌
